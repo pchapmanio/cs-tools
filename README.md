@@ -1,4 +1,4 @@
-# Chapman Studios Mel Suite <beta>
+# Peter Chapman Mel Suite <beta>
 # Version: 0.02
 # Author: Peter Chapman
 # Email: peter@pchapman.io
